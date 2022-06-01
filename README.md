@@ -1,6 +1,6 @@
 # Spring Boot Deployment Practice
 
-[](https://barkwire.herokuapp.com/api/dogs)
+<https://barkwire.herokuapp.com/api/dogs>
 
 Deploy the included working Spring Boot app to a cloud provider. Some things to note:
 
